@@ -13,6 +13,9 @@ try {
         '/decimal-hexadecimal',
         '/regle-de-trois',
         '/admin',
+        '/header',
+        '/footer',
+        '/index',
         /* ROUTES API */
         '/api/post',
     ));

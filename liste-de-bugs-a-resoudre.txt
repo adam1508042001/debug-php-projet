@@ -1,0 +1,10 @@
+1/on peut pas envoyer de mail dans Il vous manque une fonctionnalité dans accueil 
+
+
+2/convirtisseur de devise 
+euros vers dollar 
+dollar vers euro
+
+
+3/http://mytoolbox.loc/admin 
+qui ne marche pas 

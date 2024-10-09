@@ -1,2 +1,14 @@
 vendor
 /.idea/
+
+
+# cacher les les variables d'environnement 
+.env
+config.php
+
+
+/vendor
+
+
+
+

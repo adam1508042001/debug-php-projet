@@ -1,4 +1,5 @@
-1/on peut pas envoyer de mail dans Il vous manque une fonctionnalité dans accueil 
+1/on peut pas envoyer de mail dans Il vous manque une fonctionnalité dans accueil
+//////////////done /////////////// 
 
 
 2/convirtisseur de devise 

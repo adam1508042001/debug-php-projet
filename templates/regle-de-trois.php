@@ -34,7 +34,7 @@ template('header', array(
                         </div>
 
                         <div class="d-inline-flex align-items-center">
-                            <span class="ver"> </span>
+                            <span class="ver"></span>
                         </div>
                         <div class="col">
                             <label for="c" aria-hidden="true" hidden>Nombre C</label>

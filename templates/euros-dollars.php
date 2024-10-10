@@ -109,8 +109,14 @@ template('header', array(
                     const result = await response.json();
 
                     let inputName = Object.keys(result.data)[0];
+                    let targetInput = event.target.querySelector(`input[name=${inputName}]`);
+                    
 
-                    event.t
+                    targetInput.disabled = false;
+                    targetInput.value = result.data[inputName];
+                    targetInput.disabled = true; // Le désactiver à nouveau
+
+
                 })
             }
         });

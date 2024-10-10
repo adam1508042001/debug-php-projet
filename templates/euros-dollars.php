@@ -54,6 +54,7 @@ template('header', array(
                     <form action="" method="post" name="euros-dollars">
                         <div class="form-group row">
                             <div class="col">
+                                
                                 <label for="USD" aria-hidden="true" hidden>Dollars</label>
                                 <div class="input-group">
                                     <input id="USD" name="USD" type="text" class="form-control" required>
